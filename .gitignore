@@ -1,0 +1,11 @@
+#ignore all files in each directory
+*
+
+#unignore
+!.gitignore
+!LICENSE
+!README.md
+
+!*/*.cpp
+!CMakeLists.txt
+!DisplayImage.cpp
