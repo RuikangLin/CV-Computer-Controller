@@ -6,6 +6,5 @@
 !LICENSE
 !README.md
 
-!*/*.cpp
+!*.cpp
 !CMakeLists.txt
-!DisplayImage.cpp
